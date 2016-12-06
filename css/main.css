@@ -13,7 +13,7 @@ div {
 }
 
 .btn {
-  display: inline block;
+  display: inline-block;
   font-size: 1.125rem;
   background-color: #333;
   color: white;

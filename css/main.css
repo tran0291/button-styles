@@ -27,23 +27,14 @@ div {
 }
 
 .btn-ghost {
-  display: inline block;
-  font-size: 1.125rem;
-  background-color: #333;
-  color: white;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  text-decoration: none;
-}
+  background-color: white;
+  color: #000;
+  border-style: solid;
+  border-color: #666;
+  }
 
-.btn-ghost {
-  display: inline block;
-  font-size: 1.125rem;
-  background-color: #333;
-  color: white;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  text-decoration: none;
+.btn-warning {
+  background-color: #f33;
 }
 
 .btn-ghost {

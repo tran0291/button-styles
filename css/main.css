@@ -8,8 +8,8 @@ html {
 }
 
 div {
-  padding: .5rem;
   text-align: center;
+  margin: 20px;
 }
 
 .btn {
@@ -20,6 +20,7 @@ div {
   padding: .4em .75em .3em;
   border-radius: 8px;
   text-decoration: none;
+  border: 3px;
 }
 
 .btn-subtle {
@@ -31,14 +32,14 @@ div {
   color: #000;
   border-style: solid;
   border-color: #666;
-  }
+}
 
 .btn-warning {
   background-color: #f33;
 }
 
 .btn-small {
-  font-size: 0.875rem;
+  font-size: .875rem;
 }
 
 .btn-big {

@@ -37,27 +37,15 @@ div {
   background-color: #f33;
 }
 
-.btn-ghost {
-  display: inline block;
-  font-size: 1.125rem;
-  background-color: #333;
-  color: white;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  text-decoration: none;
+.btn-small {
+  font-size: 0.875rem;
 }
 
-.btn-ghost {
-  display: inline block;
-  font-size: 1.125rem;
-  background-color: #333;
-  color: white;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
-  text-decoration: none;
+.btn-big {
+  font-size: 1.5rem;
 }
 
-.btn-ghost {
+.btn {
   display: inline block;
   font-size: 1.125rem;
   background-color: #333;
